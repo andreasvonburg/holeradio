@@ -2,7 +2,6 @@
   "name": "andreasvonburg/holeradio",
   "minimum-stability": "dev",
   "require": {
-    "php": ">=8.0",
-    "n2n/n2n-util": "^7.3"
+    "n2n/n2n-util": "^7.2"
   }
 }
