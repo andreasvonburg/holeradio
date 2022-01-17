@@ -1,2 +1,2 @@
 <?php
-echo 'public holeradio';
+echo 'public holeradio!';
